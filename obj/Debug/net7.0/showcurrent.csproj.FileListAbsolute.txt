@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/showcurrent/bin/Debug/net7.0/showcurrent
+/Users/macos/Desktop/Operator/showcurrent/bin/Debug/net7.0/showcurrent.deps.json
+/Users/macos/Desktop/Operator/showcurrent/bin/Debug/net7.0/showcurrent.runtimeconfig.json
+/Users/macos/Desktop/Operator/showcurrent/bin/Debug/net7.0/showcurrent.dll
+/Users/macos/Desktop/Operator/showcurrent/bin/Debug/net7.0/showcurrent.pdb
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/showcurrent.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/showcurrent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/showcurrent.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/showcurrent.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/showcurrent.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/showcurrent.dll
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/refint/showcurrent.dll
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/showcurrent.pdb
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/showcurrent.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/showcurrent/obj/Debug/net7.0/ref/showcurrent.dll
